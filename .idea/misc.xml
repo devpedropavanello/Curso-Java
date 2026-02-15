@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MaterialThemeProjectNewConfig">
+    <option name="metadata">
+      <MTProjectMetadataState>
+        <option name="migrated" value="true" />
+        <option name="pristineConfig" value="false" />
+        <option name="userId" value="-6b8d2b0:19a5fa7a000:-7ffe" />
+      </MTProjectMetadataState>
+    </option>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Metodos/pom.xml" />
+        <option value="$PROJECT_DIR$/Vetores/pom.xml" />
+        <option value="$PROJECT_DIR$/POO_JAVA/POO_JAVA/pom.xml" />
+        <option value="$PROJECT_DIR$/ProjetoVetor/pom.xml" />
+        <option value="$PROJECT_DIR$/cursoNelioAlves/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="25 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
