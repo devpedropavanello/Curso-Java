@@ -56,11 +56,11 @@ public class Account {
         balance -= amaount;
     }
 
-    private void validateWithdraw(double amaount) {
-        if (amaount > getWithdrawLimit()) {
+    private void validateWithdraw(double amount) {
+        if (amount > getWithdrawLimit()) {
             throw new BusinessException("Withdraw error: The amount exceeds withdraw limit");
         }
-        if (amaount > getBalance()) {
+        if (amount > getBalance()) {
             throw new BusinessException("Withdraw error: Not enough balance");
         }
     }
